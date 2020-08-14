@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'typocellcomblack';
+    src: url('../fonts/typocellcom-black-webfont.woff2') format('woff2'),
+         url('../fonts/typocellcom-black-webfont.woff') format('woff'),
+         url('../fonts/typocellcom-black-webfont.ttf') format('truetype'),
+         url('../fonts/typocellcom-black-webfont.svg#typocellcomblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'typocellcom_boldbold';
+    src: url('../fonts/typocellcom-bold-webfont.woff2') format('woff2'),
+         url('../fonts/typocellcom-bold-webfont.woff') format('woff'),
+         url('../fonts/typocellcom-bold-webfont.ttf') format('truetype'),
+         url('../fonts/typocellcom-bold-webfont.svg#typocellcom_boldbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'typocellcomcond';
+    src: url('../fonts/typocellcom-cond-webfont.woff2') format('woff2'),
+         url('../fonts/typocellcom-cond-webfont.woff') format('woff'),
+         url('../fonts/typocellcom-cond-webfont.ttf') format('truetype'),
+         url('../fonts/typocellcom-cond-webfont.svg#typocellcomcond') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'typocellcom_regularregular';
+    src: url('../fonts/typocellcom-regular-webfont.woff2') format('woff2'),
+         url('../fonts/typocellcom-regular-webfont.woff') format('woff'),
+         url('../fonts/typocellcom-regular-webfont.ttf') format('truetype'),
+         url('../fonts/typocellcom-regular-webfont.svg#typocellcom_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+	font-family: 'TypoCellcom';
+	src: url('../fonts/aa_typocellcomregular.eot');
+	src: local('☺'), 
+		 url('../fonts/aa_typocellcomregular.woff') format('woff'), 
+		 url('../fonts/aa_typocellcomregular.ttf') format('truetype'), 
+		 url('../fonts/aa_typocellcomregular.svg') format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'TypoCellcom2';
+	src: url('../fonts/aa_typocellcomblack.eot');
+	src: local('☺'), 
+		 url('../fonts/aa_typocellcomblack.woff') format('woff'), 
+		 url('../fonts/aa_typocellcomblack.ttf') format('truetype'), 
+		 url('../fonts/aa_typocellcomblack.svg') format('svg');
+	font-weight: 600;
+	font-style: normal;
+}
